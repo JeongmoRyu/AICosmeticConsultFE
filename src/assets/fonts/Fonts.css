@@ -1,0 +1,25 @@
+/* GlobalStyles 에 명시하면 화면이 깜박거리고 window에서 불러오지 못해서 css로 빼줌 */
+@font-face {
+  font-family: 'Pretendard';
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local('�'),
+    url('Pretendard-Regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Pretendard';
+  font-style: normal;
+  font-weight: 500;
+  src:
+    local('�'),
+    url('Pretendard-Medium.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Pretendard';
+  font-style: normal;
+  font-weight: 700;
+  src:
+    local('�'),
+    url('Pretendard-Bold.woff2') format('woff2');
+}
