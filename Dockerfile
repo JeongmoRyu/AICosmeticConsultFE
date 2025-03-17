@@ -1,5 +1,6 @@
 # This file is a template, and might need editing before it works on your project.
 FROM 이미지
+# Git Guardian Test 
 # 컨테이너 내부 작업 디렉토리 설정
 WORKDIR /app
 
